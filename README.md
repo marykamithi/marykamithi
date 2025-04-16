@@ -1,12 +1,11 @@
 # Hi there, I'm Mary Kamithi 👋
 
 🚀 I'm a passionate Software Engineer based in Nairobi, Kenya.  
-💻 I hold a **Diploma in Software Engineering** from Zetech University (2023), and I'm certified in **CCNA (2022)** and **Software Development (PLP, 2022)**.
 
 ## 👩‍💻 About Me
 
-- 🔧 I specialize in **Web Development**, **Networking**, and **Software Engineering Fundamentals**.
-- 🌱 Currently learning more about **DevOps**, **Cloud Computing**, and **JavaScript frameworks** like React.
+- 🔧 I specialize in **Web Development**, **Networking**, and **Software Engineering **.
+- 🌱 Currently learning more about **DevOps**, **Cloud Computing**, and **Mobile Development ** 
 - 🧠 I enjoy solving problems and building efficient, scalable applications.
 - 🤝 Always open to collaboration, mentorship, and community-driven projects.
 
@@ -40,7 +39,7 @@ I love creating clean, scalable, and user-friendly web and mobile applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
-📧 Email: [marykamithi3@gmail.con (mailto:marykamithi3@gmail.com)
+📧 Email: [marykamithi3@gmail.com
 
 ---
 
