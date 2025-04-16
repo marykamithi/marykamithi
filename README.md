@@ -17,9 +17,6 @@
 - **Databases:** MySQL, MongoDB
 - **Networking:** CCNA Certified – skilled in network configuration and troubleshooting
 
-## 📈 GitHub Stats
-
-![Mary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marykamithi&show_icons=true&theme=tokyonight)
 
 ## 📫 Let's Connect
 
@@ -43,7 +40,7 @@ I love creating clean, scalable, and user-friendly web and mobile applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
-📧 Email: [your.email@example.com](mailto:your.email@example.com)
+📧 Email: [marykamithi3@gmail.con (mailto:marykamithi3@gmail.com)
 
 ---
 
@@ -80,15 +77,6 @@ I love creating clean, scalable, and user-friendly web and mobile applications.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![Mary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marykamithi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marykamithi&layout=compact&theme=radical)
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 Thanks for visiting my profile! ⭐ Let's build something amazing together.
 
