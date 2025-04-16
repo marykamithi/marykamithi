@@ -1,37 +1,11 @@
-# Hi there, I'm Mary Kamithi 👋
 
-🚀 I'm a passionate Software Engineer based in Nairobi, Kenya.  
-
-## 👩‍💻 About Me
-
-- 🔧 I specialize in **Web Development**, **Networking**, and **Software Engineering **.
-- 🌱 Currently learning more about **DevOps**, **Cloud Computing**, and **Mobile Development ** 
-- 🧠 I enjoy solving problems and building efficient, scalable applications.
-- 🤝 Always open to collaboration, mentorship, and community-driven projects.
-
-## 🛠 Tech Stack
-
-- **Languages:** HTML, CSS, JavaScript, Python, PHP, Java
-- **Frameworks & Tools:** React, Laravel, Node.js, Express.js, Git, Docker
-- **Databases:** MySQL, MongoDB
-- **Networking:** CCNA Certified – skilled in network configuration and troubleshooting
-
-
-## 📫 Let's Connect
-
-- ✉️ Email: marykamithi3@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/marykamithi/
-
-Thanks for stopping by! 😊  
-Feel free to explore my repositories and drop a ⭐ if you find something interesting.
 
 # Hi there, I'm Mary Njeri Kamithi 👋
 
 I'm a passionate **Software Engineer** based in **Nairobi, Kenya** 🇰🇪  
 I love creating clean, scalable, and user-friendly web and mobile applications.
 
-🎓 **Diploma in Software Engineering** – Zetech University (2023)  
-📜 Certified in **CCNA (2022)** & **Software Development (PLP, 2022)**
+🎓 **Bsc Software Engineering** – Zetech University  
 
 ---
 
