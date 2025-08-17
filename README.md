@@ -4,7 +4,7 @@
 
 
 <div align="center">
-	<b>Passionate Software Engineer from Nairobi, Kenya 🇰🇪</b>
+	<b>Passionate Software Engineer | Data Scientist from Nairobi, Kenya 🇰🇪</b>
 	<br>
 	<i>I love creating clean, scalable, and user-friendly web & mobile apps!</i>
 </div>
@@ -28,11 +28,6 @@ to unlock insights from data.
 
 
 
-
-<div align="center">
-	<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="wave"/>
-</div>
----
 
 ## 🌐 Socials
 
