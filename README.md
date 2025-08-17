@@ -6,7 +6,7 @@
 <div align="center">
 	<b>Passionate Software Engineer | Data Scientist from Nairobi, Kenya 🇰🇪</b>
 	<br>
-	<i>I love creating clean, scalable, and user-friendly web & mobile apps!</i>
+	<i>I love creating clean, scalable web & mobile apps and uncovering insights with data science and machine learning!</i>
 </div>
 
 
