@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm Mary Njeri Kamithi! ✨�‍💻
+# Hi there, I'm Mary Njeri Kamithi! ✨
 
 
 <div align="center">
